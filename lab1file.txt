@@ -1,2 +1,0 @@
-This is a test file for DevOps Lab 1. 
-Automated change on 10-07-2025 17:38:55.37 
